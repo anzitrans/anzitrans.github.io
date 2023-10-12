@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://anzitrans.github.io/
 
 phone_number: 13816457392
-wechat_id:Comoriana2023
+wechat_id: Comoriana2023
 
 # Build settings
 markdown: kramdown
